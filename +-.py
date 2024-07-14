@@ -4,4 +4,4 @@ if a == 0:
 elif a>0:
     print("+")
 else:
-    print("-")
+    print("NA")
